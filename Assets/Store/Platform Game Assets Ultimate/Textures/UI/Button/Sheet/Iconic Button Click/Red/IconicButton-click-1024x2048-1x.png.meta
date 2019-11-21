@@ -1,0 +1,1201 @@
+fileFormatVersion: 2
+guid: f4712ca97b198da45ab2f0c6897e5f8b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IconicButton-click-1024x2048-1x_0
+    21300002: IconicButton-click-1024x2048-1x_1
+    21300004: IconicButton-click-1024x2048-1x_2
+    21300006: IconicButton-click-1024x2048-1x_3
+    21300008: IconicButton-click-1024x2048-1x_4
+    21300010: IconicButton-click-1024x2048-1x_5
+    21300012: IconicButton-click-1024x2048-1x_6
+    21300014: IconicButton-click-1024x2048-1x_7
+    21300016: IconicButton-click-1024x2048-1x_8
+    21300018: IconicButton-click-1024x2048-1x_9
+    21300020: IconicButton-click-1024x2048-1x_10
+    21300022: IconicButton-click-1024x2048-1x_11
+    21300024: IconicButton-click-1024x2048-1x_12
+    21300026: IconicButton-click-1024x2048-1x_13
+    21300028: IconicButton-click-1024x2048-1x_14
+    21300030: IconicButton-click-1024x2048-1x_15
+    21300032: IconicButton-click-1024x2048-1x_16
+    21300034: IconicButton-click-1024x2048-1x_17
+    21300036: IconicButton-click-1024x2048-1x_18
+    21300038: IconicButton-click-1024x2048-1x_19
+    21300040: IconicButton-click-1024x2048-1x_20
+    21300042: IconicButton-click-1024x2048-1x_21
+    21300044: IconicButton-click-1024x2048-1x_22
+    21300046: IconicButton-click-1024x2048-1x_23
+    21300048: IconicButton-click-1024x2048-1x_24
+    21300050: IconicButton-click-1024x2048-1x_25
+    21300052: IconicButton-click-1024x2048-1x_26
+    21300054: IconicButton-click-1024x2048-1x_27
+    21300056: IconicButton-click-1024x2048-1x_28
+    21300058: IconicButton-click-1024x2048-1x_29
+    21300060: IconicButton-click-1024x2048-1x_30
+    21300062: IconicButton-click-1024x2048-1x_31
+    21300064: IconicButton-click-1024x2048-1x_32
+    21300066: IconicButton-click-1024x2048-1x_33
+    21300068: IconicButton-click-1024x2048-1x_34
+    21300070: IconicButton-click-1024x2048-1x_35
+    21300072: IconicButton-click-1024x2048-1x_36
+    21300074: IconicButton-click-1024x2048-1x_37
+    21300076: IconicButton-click-1024x2048-1x_38
+    21300078: IconicButton-click-1024x2048-1x_39
+    21300080: IconicButton-click-1024x2048-1x_40
+    21300082: IconicButton-click-1024x2048-1x_41
+    21300084: IconicButton-click-1024x2048-1x_42
+    21300086: IconicButton-click-1024x2048-1x_43
+    21300088: IconicButton-click-1024x2048-1x_44
+    21300090: IconicButton-click-1024x2048-1x_45
+    21300092: IconicButton-click-1024x2048-1x_46
+    21300094: IconicButton-click-1024x2048-1x_47
+    21300096: IconicButton-click-1024x2048-1x_48
+    21300098: IconicButton-click-1024x2048-1x_49
+    21300100: IconicButton-click-1024x2048-1x_50
+    21300102: IconicButton-click-1024x2048-1x_51
+    21300104: IconicButton-click-1024x2048-1x_52
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1910
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f484c235e6eac945900d55def39d6d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1910
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca145aaef2056e45bac81c376f9993e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1908
+        width: 129
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7378a7b5f5fb9e4080f9e791c5c3c3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_3
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1909
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac85f6d173872c4999af57c4f9bf5d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_4
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1910
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1a19b703793fa44bad3f7faf1647a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_5
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1910
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9cf3cc2303cfe4d994e1823a455bd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1673
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90b9641e568e2d4bb805e17e31400ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_7
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1673
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff162ff2f8f3e14e9e34b71129f3454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_8
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1673
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5baa489923b8b4f80b51706b04752b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_9
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1672
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13a5c315dafcea49a182762996718b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_10
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1673
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e40577057d08c4dbb1821015ff6da1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_11
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1673
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb2d7a115ce18e4daa546acf11a0cea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1436
+        width: 130
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44872a181fca97748bbf9163665bded4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1436
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eae45c970fd75842a8c136c8085afac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_14
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1436
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37e0f3b99dff5746acec4c69481a4ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_15
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1435
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6085cb36e8dd364fa5e33b7c2f9fdbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_16
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1436
+        width: 132
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb37c31ecbea324db9c5357889abb36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_17
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1436
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c02c96898f2324d89ab8cd345995c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1199
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2699877300d04548b0ce007374c21a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_19
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1199
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7cbdcf6be20734e81371343a3ce803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_20
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1199
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834247aebd95d81418ffb561d0dcd0cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_21
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1198
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc144fd5dfb17d43b887ab74f71f8cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_22
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1199
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b45ddd65090960418d8afccbf17e86f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_23
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1199
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006d69b434607294a9b9ee7c24bc7904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 962
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888c0baf3f902cb40957a28d7db24864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 962
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e1d6871e5e9334d870b3b4582e5616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_26
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 960
+        width: 129
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594f2b8b622df8a44a6c03ad66f6641a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_27
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 961
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4febf4071cc006343b0a442891c2a230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_28
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 962
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d26ab2b0f4d814c9d2d413e1f90c5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_29
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 962
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e7c28d7627a024c989f5d6214cd440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 725
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db1727bf1d0e3449bfa7ab23d6a1eea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_31
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 725
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f555a2c6fb4b6394aad2cddd7e384a1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_32
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 725
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3156a6f8154e4f40bde260d45ec671a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_33
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 724
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44f33b36eed7c64d983ec80de85e192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_34
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 725
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2f23f4b95f5f54f88cf56240361826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_35
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 725
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d0af8604fd85c4a81170dd71282cc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 488
+        width: 130
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e987addc15651fb4e85a39ab1036d087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_37
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 488
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c334180d7f7b44ab6ca40c91c51694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_38
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 488
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21a2073cfa48244396f27e7b951f8e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_39
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 487
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dc062a995630342b12b6ae9c067d80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_40
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 488
+        width: 132
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af98acae53dec34f87914abcec04172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_41
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 488
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef2981d24f799a4fb9cedf2c33e3550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 251
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ff6417fc768134a826c61f68c976f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_43
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 251
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfc85dacc5387246aed6678abad8b79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_44
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 251
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1185c404efce5224ab5056cc08b4461f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_45
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 250
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d81cadc79562d44ab634742de2ae68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_46
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 251
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938f2d9803aef1f4296c420f36c53c63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_47
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 251
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7698e5b36fe695d45a9edb30303859cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 14
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8077eeafb85471c4b90679414b5e923c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_49
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 14
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78164789f99f11e4eb45a0f194535da7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_50
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 12
+        width: 129
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2277b0f7a8bcbb040806ce7b375bc1f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_51
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 13
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bbb46a5af4e5848b8057f2dabf2101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-click-1024x2048-1x_52
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 14
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa76bab428611140a75d36ac411fb32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a9f84125c5b8c4f48bf89150f8b9919b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

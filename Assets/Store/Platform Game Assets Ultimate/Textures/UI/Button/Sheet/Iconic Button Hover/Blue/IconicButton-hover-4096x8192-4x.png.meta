@@ -1,0 +1,1201 @@
+fileFormatVersion: 2
+guid: 1407e67545388034c8deb756dba81c8b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IconicButton-hover-4096x8192-4x_0
+    21300002: IconicButton-hover-4096x8192-4x_1
+    21300004: IconicButton-hover-4096x8192-4x_2
+    21300006: IconicButton-hover-4096x8192-4x_3
+    21300008: IconicButton-hover-4096x8192-4x_4
+    21300010: IconicButton-hover-4096x8192-4x_5
+    21300012: IconicButton-hover-4096x8192-4x_6
+    21300014: IconicButton-hover-4096x8192-4x_7
+    21300016: IconicButton-hover-4096x8192-4x_8
+    21300018: IconicButton-hover-4096x8192-4x_9
+    21300020: IconicButton-hover-4096x8192-4x_10
+    21300022: IconicButton-hover-4096x8192-4x_11
+    21300024: IconicButton-hover-4096x8192-4x_12
+    21300026: IconicButton-hover-4096x8192-4x_13
+    21300028: IconicButton-hover-4096x8192-4x_14
+    21300030: IconicButton-hover-4096x8192-4x_15
+    21300032: IconicButton-hover-4096x8192-4x_16
+    21300034: IconicButton-hover-4096x8192-4x_17
+    21300036: IconicButton-hover-4096x8192-4x_18
+    21300038: IconicButton-hover-4096x8192-4x_19
+    21300040: IconicButton-hover-4096x8192-4x_20
+    21300042: IconicButton-hover-4096x8192-4x_21
+    21300044: IconicButton-hover-4096x8192-4x_22
+    21300046: IconicButton-hover-4096x8192-4x_23
+    21300048: IconicButton-hover-4096x8192-4x_24
+    21300050: IconicButton-hover-4096x8192-4x_25
+    21300052: IconicButton-hover-4096x8192-4x_26
+    21300054: IconicButton-hover-4096x8192-4x_27
+    21300056: IconicButton-hover-4096x8192-4x_28
+    21300058: IconicButton-hover-4096x8192-4x_29
+    21300060: IconicButton-hover-4096x8192-4x_30
+    21300062: IconicButton-hover-4096x8192-4x_31
+    21300064: IconicButton-hover-4096x8192-4x_32
+    21300066: IconicButton-hover-4096x8192-4x_33
+    21300068: IconicButton-hover-4096x8192-4x_34
+    21300070: IconicButton-hover-4096x8192-4x_35
+    21300072: IconicButton-hover-4096x8192-4x_36
+    21300074: IconicButton-hover-4096x8192-4x_37
+    21300076: IconicButton-hover-4096x8192-4x_38
+    21300078: IconicButton-hover-4096x8192-4x_39
+    21300080: IconicButton-hover-4096x8192-4x_40
+    21300082: IconicButton-hover-4096x8192-4x_41
+    21300084: IconicButton-hover-4096x8192-4x_42
+    21300086: IconicButton-hover-4096x8192-4x_43
+    21300088: IconicButton-hover-4096x8192-4x_44
+    21300090: IconicButton-hover-4096x8192-4x_45
+    21300092: IconicButton-hover-4096x8192-4x_46
+    21300094: IconicButton-hover-4096x8192-4x_47
+    21300096: IconicButton-hover-4096x8192-4x_48
+    21300098: IconicButton-hover-4096x8192-4x_49
+    21300100: IconicButton-hover-4096x8192-4x_50
+    21300102: IconicButton-hover-4096x8192-4x_51
+    21300104: IconicButton-hover-4096x8192-4x_52
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 7632
+        width: 528
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0ebe59a7dbe8d4ea5d9cd33579c37a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_1
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 7634
+        width: 530
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60337497254699c44a8c5d4f6f048ee0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_2
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 7634
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2a3cdae16a3f84a80bcf404c4192e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_3
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 7631
+        width: 530
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c91bf8466ed4fe4f9cd825000c76699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_4
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 7634
+        width: 528
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adbbb1e35114014fa5db3ef5348905b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_5
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 7631
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd211639b1420f04a8ce5adcc29c20ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 6686
+        width: 526
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdce8c3865333147a59bfa36a758fd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_7
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 6686
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8120fbf16c6b6b49a99953cc9ae882e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_8
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 6686
+        width: 524
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7752b4f3d2fc6a648b9ed553af777404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_9
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 6686
+        width: 530
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0e883466dd39044a685a84b50cdd47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_10
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 6686
+        width: 526
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6117a9b6a70697e44a32b8516dec9664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_11
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 6686
+        width: 530
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2623f0dc55dea0b44a3f3853a6f0fb5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 5738
+        width: 527
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fbbb6f54ebd1946bdbc754f82dab26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_13
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 5738
+        width: 531
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30244ae2dcee7c4d9261ad9437769e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_14
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 5738
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34ccb19a7be8894fb67cb501442337d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_15
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 5738
+        width: 530
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55e15b66b43a9149a566ef0457066ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_16
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 5738
+        width: 526
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50ac70d53ba6314c931d8d68ebfa096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_17
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 5738
+        width: 531
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893378ebe2cdc434f8988ddbe0f9db3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 4790
+        width: 527
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938e9d2f4fb0d944587b4bd593b4ed4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_19
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 4783
+        width: 531
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd349fe9fb41f94a8db9a7205c4de7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_20
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 4784
+        width: 524
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b36c417f2a372a4488b0942b2e2d4f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_21
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 4783
+        width: 531
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eae2f1de23612c438360ea3370c5b61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_22
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 4790
+        width: 527
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194e6ab1f5e0eda4e821a7ee90277396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_23
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 4783
+        width: 531
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f580dd0dbbc68f419d78923836b05e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3840
+        width: 528
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66faa948880832b40b8f888e15f0df8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_25
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 3842
+        width: 530
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b717ff5a89b8bb7429a8beed791580e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_26
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 3842
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2891835658b910f48b4ba7084a45e1ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_27
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 3839
+        width: 530
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8d888a9fccee44bb07ac290b337cf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_28
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 3842
+        width: 528
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cbda78bd68ff7448f09f4e057c27bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_29
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 3839
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbb9d2f9eb0f9e41ba3bce438ebbd61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2894
+        width: 526
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7a755c56b358d429457e56d3a15e74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_31
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2894
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c59e5599f5ef54d9c948c0b3b59bbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_32
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 2894
+        width: 524
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b96205a6985e1a48857be17c1223143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_33
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 2894
+        width: 530
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e179cfcccc2a07a4eaafdd824fac6234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_34
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 2894
+        width: 526
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cd6df7fdc8f154db0bec101f05b654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_35
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 2894
+        width: 530
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92da9414d8045549807ba013b4af609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1946
+        width: 527
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13abb421e8f72d04db8dfac74b95f362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_37
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1946
+        width: 531
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde0c61459ee00d4da1684cbf684c16f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_38
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1946
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3bd0874e717f94ebed9e4e3ac2a976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_39
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 1946
+        width: 530
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88984a71bdb4ade4da3619a9f1a4c1e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_40
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 1946
+        width: 526
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094ddf2a7033ef447a9d4a037c182cf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_41
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 1946
+        width: 531
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77359472ebf83e44690eceb284711ea7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 998
+        width: 529
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3496ade5332dcf459195aca78aa892c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_43
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 991
+        width: 531
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaab566bc8500a4a82b04db56e924fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_44
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 992
+        width: 524
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6f74271a1894f4b96468e03a798d36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_45
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 991
+        width: 531
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9d2a3ee6f70ce45b0b72ced10310fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_46
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 998
+        width: 527
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cb36c949e648b4081bdac3011f8522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_47
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 991
+        width: 531
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f94d177fdfe0a74080ba237ee94cf51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 528
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3271e0a02763bcd4180844771933e11e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_49
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 50
+        width: 530
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b3736843ce88a42b689ec5a56bcc09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_50
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 50
+        width: 524
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5a3f66eec4465489b30a1d600f309f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_51
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 47
+        width: 530
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8efe9a5d124f07439390375adfe016f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconicButton-hover-4096x8192-4x_52
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 50
+        width: 528
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d4a0ac021cbdb40b8e89c1adfa364e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: adf56903bec59104caf4f117c3a2c15b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

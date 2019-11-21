@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: bb2bd46720f0ad243bff2cd85ef78958
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpringEnvironment-2-1024x2048(2x)_0
+    21300002: SpringEnvironment-2-1024x2048(2x)_1
+    21300004: SpringEnvironment-2-1024x2048(2x)_2
+    21300006: SpringEnvironment-2-1024x2048(2x)_3
+    21300008: SpringEnvironment-2-1024x2048(2x)_4
+    21300010: SpringEnvironment-2-1024x2048(2x)_5
+    21300012: SpringEnvironment-2-1024x2048(2x)_6
+    21300014: SpringEnvironment-2-1024x2048(2x)_7
+    21300016: SpringEnvironment-2-1024x2048(2x)_8
+    21300018: SpringEnvironment-2-1024x2048(2x)_9
+    21300020: SpringEnvironment-2-1024x2048(2x)_10
+    21300022: SpringEnvironment-2-1024x2048(2x)_11
+    21300024: SpringEnvironment-2-1024x2048(2x)_12
+    21300026: SpringEnvironment-2-1024x2048(2x)_13
+    21300028: SpringEnvironment-2-1024x2048(2x)_14
+    21300030: SpringEnvironment-2-1024x2048(2x)_15
+    21300032: SpringEnvironment-2-1024x2048(2x)_16
+    21300034: SpringEnvironment-2-1024x2048(2x)_17
+    21300036: SpringEnvironment-2-1024x2048(2x)_18
+    21300038: SpringEnvironment-2-1024x2048(2x)_19
+    21300040: SpringEnvironment-2-1024x2048(2x)_20
+    21300042: SpringEnvironment-2-1024x2048(2x)_21
+    21300044: SpringEnvironment-2-1024x2048(2x)_22
+    21300046: SpringEnvironment-2-1024x2048(2x)_23
+    21300048: SpringEnvironment-2-1024x2048(2x)_24
+    21300050: SpringEnvironment-2-1024x2048(2x)_25
+    21300052: SpringEnvironment-2-1024x2048(2x)_26
+    21300054: SpringEnvironment-2-1024x2048(2x)_27
+    21300056: SpringEnvironment-2-1024x2048(2x)_28
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1764
+        width: 75
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0d78a273f12c84e93b9cf25abbc242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1764
+        width: 81
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26263d20f951b746999ab10072ee7b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1764
+        width: 785
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddee28d1ae2a824a81afb94d282ba91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1502
+        width: 274
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec846ec762ca5143adc9e96f56d67ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_4
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1502
+        width: 399
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46c23b4d5affd342a356f61dba5e6b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1318
+        width: 86
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48074f719138cdd4eba17ab6528bcb37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_6
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1318
+        width: 86
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7332a0926dce3524bbbaf4f896dade02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_7
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1318
+        width: 86
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3637e85b8e3bc45499482127be71e10e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1318
+        width: 86
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb3c07de31c9f04bb83803b9887944d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_9
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1318
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05980fcd4864385478cd064e43246c6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_10
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1318
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ce5267f1956644fafdfbc43420dd69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_11
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1318
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6e00e76f08eb14f87ed674d48b670f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_12
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1318
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c84a62ada2bcd44dac85c77e99bcd66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1030
+        width: 375
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e9fbcbaf16db844b9d408da351d89d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_14
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1030
+        width: 425
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e931588b89959e54c947e780767e0704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 742
+        width: 313
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f112394c3a05c6a43beaeb66bad6b2fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 742
+        width: 384
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d976692c6688e479c8b05a3e6745a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_17
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 738
+        width: 95
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d720ff377137bb44bbc8ab348cea4785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_18
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 742
+        width: 82
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a33e25faa0cf2c46b0d5f12ec8c5239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_19
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 374
+        width: 497
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cc711e9aef16d40bc24f908f58b1ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_20
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 424
+        width: 401
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b072ea5cec4e01648b35cdb6eb71a8c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 200
+        width: 69
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc6817f55f59dd4b86cd21a2ff04a29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_22
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 200
+        width: 95
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e306fca871fc24ea8b1ba96cfc5e72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_23
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 200
+        width: 140
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b9d4c377ba5e349a65340e5262c880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_24
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 200
+        width: 270
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c06b1ad2bdef624c8d087755c9e0963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_25
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 200
+        width: 173
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c40bef5eaf9604999a37c688d58a2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_26
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 20
+        width: 273
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df981b46f18f009438af19506ab20801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_27
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 20
+        width: 277
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d5d470aa01c6c4db8d2bfaf2aeb8ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringEnvironment-2-1024x2048(2x)_28
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 20
+        width: 385
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6931cee6d2acb448a2083e145e1bdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7d1ad9cbb2d045744a81cc347c1953df
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
